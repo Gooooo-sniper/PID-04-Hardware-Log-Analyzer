@@ -1,0 +1,16 @@
+# PID-04 IoT DLQ Failure Analyzer Dependencies
+
+# Streamlit - Web application framework
+streamlit>=1.28.0
+
+# Requests - HTTP library for Discord webhook integration
+requests>=2.31.0
+
+# Python standard library modules (included, no installation needed):
+# - re (regex)
+# - datetime
+# - dataclasses
+# - typing
+# - uuid
+# - json
+
