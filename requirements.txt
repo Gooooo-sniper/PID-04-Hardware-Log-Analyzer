@@ -1,0 +1,15 @@
+# PID-04 IoT DLQ Failure Analyzer Dependencies
+
+# Streamlit - Web application framework
+streamlit>=1.28.0
+
+# Python standard library modules (included, no installation needed):
+# - re (regex)
+# - datetime
+# - dataclasses
+# - typing
+# - uuid
+# - json
+
+# No external API dependencies required!
+# This application runs completely offline using rule-based parsing.
